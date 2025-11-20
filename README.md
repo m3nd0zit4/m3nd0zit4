@@ -10,7 +10,10 @@
 
 
 <p align="center"><b>Visitor Lenguage Count</b></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3nd0zit4&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3nd0zit4&layout=compact&hide=TSQL&theme=chartreuse-dark&cache_seconds=1&v=2">
+</p>
+
 
 ### 🛠 &nbsp;Tech Stack
 
