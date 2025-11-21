@@ -80,27 +80,28 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/juliánmendoza/?locale=en_US">
-<img src="https://img.shields.io/badge/-Julian%20Mendoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/juliánmendoza/?locale=en_US" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-<a href="mailto:julianmendoza.ig@outlook.com">
-<img src="https://img.shields.io/badge/-julianmendoza.ig@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="mailto:julianmendoza.ig@outlook.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-<a href="https://instagram.com/m3nd0zit4.me">
-<img src="https://img.shields.io/badge/-m3nd0zit4-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+  <a href="https://instagram.com/m3nd0zit4.me" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
-<a href="https://twitter.com/m3nd0zit4">
-<img src="https://img.shields.io/badge/-m3nd0zit4-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+  <a href="https://twitter.com/m3nd0zit4" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-%20-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 
-<a href="https://www.kaggle.com/m3nd0z4">
-<img src="https://img.shields.io/badge/-m3nd0z4-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
+  <a href="https://www.kaggle.com/m3nd0z4" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-%20-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
 
 </p>
+
 
 
 
